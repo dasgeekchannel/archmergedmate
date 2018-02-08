@@ -1,7 +1,11 @@
 #!/bin/bash
 set -e
 ##################################################################################################################
+<<<<<<< HEAD
 # Author 	: 	Das Geek
+=======
+# Author 	: 	Das Geek    
+>>>>>>> 628daef5bd6fde33a6af086696691e9deb49e9e9
 # Website 	: 	https://www.dasgeekcommunity.com
 # Website	:	https://www.youtube.com/dasgeek
 

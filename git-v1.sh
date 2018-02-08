@@ -1,10 +1,19 @@
 #!/bin/bash
 #set -e
 ##################################################################################################################
+<<<<<<< HEAD
 # Author 	: 	Das Geek
 # Website 	: 	https://www.dasgeekcommunity.com
 # Website	:	https://www.youtube.com/dasgeek
 
+=======
+# Author 	: 	Erik Dubois
+# Website 	: 	https://www.erikdubois.be
+# Website	:	https://www.archmerge.info
+# Website	:	https://www.archmerge.com
+# Website	:	https://www.archmerged.com
+# Website	:	https://www.archmergeforum.com
+>>>>>>> 628daef5bd6fde33a6af086696691e9deb49e9e9
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
